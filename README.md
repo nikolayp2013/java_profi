@@ -1,6 +1,6 @@
-# java_profi
-Уроки Java для профессионалов <br />
-Текущий изученный урок:0 <br />
+# java_profi 
+Уроки Java для профессионалов  <br />
+Текущий изученный урок: 1 <br />
 https://itproger.com/course/java-intermediate <br />
 
 Урок #1 - Программирование на Java <br />
