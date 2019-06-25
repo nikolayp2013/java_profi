@@ -1,7 +1,7 @@
 # java_profi 
 Уроки Java для профессионалов  <br />
-Текущий изученный урок: 2 <br />
-https://itproger.com/course/java-intermediate/2 <br />
+Текущий изученный урок: 3 <br />
+https://itproger.com/course/java-intermediate/3 <br />
 
 Урок #1 - Программирование на Java <br />
 Урок #2 - Массивы данных ArrayList и LinkedList <br />
