@@ -1,6 +1,6 @@
 # java_profi 
 Уроки Java для профессионалов  <br />
-Текущий изученный урок: 11 10:00 мин <br />
+Текущий изученный урок: 11 <br />
 https://itproger.com/course/java-intermediate/11 <br />
 
 Урок #1 - Программирование на Java <br />
